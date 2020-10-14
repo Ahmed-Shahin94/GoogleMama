@@ -1,0 +1,63 @@
+body{
+    background-color:#fff;
+    margin:0;
+    padding:0;
+}
+h1 {
+    text-align:center;
+}
+h2 {
+    line-height:1.5;
+    margin-bottom:50px;
+}
+.half {
+    margin-top:50px;
+    width:40%;
+    line-height:1.4;
+    font-size:26px;
+    font-weight:bold;
+
+}
+.container{
+    width:70%;
+    margin:auto;
+    text-align:center;
+}
+
+.banner {
+    max-width:70%;
+    margin:auto;
+}
+.banner img{
+    width:100%;
+}
+p {
+    font-size:12px;
+    opacity:0.6;
+}
+.bg {
+    background:dodgerblue;
+    padding:45px 70px;
+    color:#fff;
+    font-size:24px;
+}
+
+
+.blue {
+    color:blue;
+}
+.red {
+    color:red;
+}
+.yellow {
+    color:yellow;
+}
+.green {
+    color:green;
+}
+.lime {
+    color:lime;
+}
+.black {
+    color:black;
+}
